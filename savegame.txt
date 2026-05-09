@@ -1,2 +1,3 @@
 Player: eshna | Score: -40 | Hints: 4
 Player: maham | Score: 200 | Hints Used: 0
+Player: mama | Score: 200 | Hints Used: 0

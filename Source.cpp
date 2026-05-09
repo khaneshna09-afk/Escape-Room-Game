@@ -17,7 +17,7 @@ public:
         hint = h;
         answer = a;
     }
-    virtual ~Puzzle() {}
+    virtual ~Puzzle()  {}
     virtual void displayChallenge() = 0;
     virtual bool checkAnswer(string guess)
     {
